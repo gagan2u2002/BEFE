@@ -1,2 +1,2 @@
 # Spring Boot Using Angular App 
-Java Backend and  Angular FE application
+Java Backend and  Angular FE application = JAVA 17 
